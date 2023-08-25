@@ -1,5 +1,6 @@
 # todo_app_react
-Here is a robust todo app built with React Js and use Django api
+Here is a robust todo app built with React Js and use Django api and db.sqlite3.
+I will use postgresql in next version.
 
 Project: ReactJS + Django Integration
 Welcome to the ReactJS + Django Integration project! This project aims to demonstrate the seamless integration of the ReactJS frontend library with the Django backend framework. By combining these two powerful technologies, we can build modern web applications that offer a dynamic user interface and robust backend capabilities.
